@@ -20,7 +20,7 @@ namespace Blog.Core.FrameWork.Services
             _roleRepository = roleRepository;
         }
         /// <summary>
-        /// 
+        /// 保存用户信息
         /// </summary>
         /// <param name="loginName"></param>
         /// <param name="loginPwd"></param>
